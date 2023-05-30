@@ -4,7 +4,6 @@ import Card from "@/app/components/Card";
 import Link from "next/link";
 import Image from "next/image";
 import Footer from "../components/Footer";
-import Searchbar from "../components/Searchbar";
 
 const Watch = async () => {
   const url =
